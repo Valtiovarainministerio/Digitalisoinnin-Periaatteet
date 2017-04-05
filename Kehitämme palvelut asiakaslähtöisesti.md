@@ -10,6 +10,4 @@ Asiakaslähtöisessä palvelujen kehittämisessä on huomioitava, että ihmisten
 
   Esimerkki lopputuotoksesta: Kuvaus asiakkaan arkkityypistä, joka edustaa haastatellun ryhmän tyypillisiä tarpeita, tavoitteita ja harmin aiheita.
   
-+ Kuvaamme asiakkaan 
-
 # Avainkysymykset

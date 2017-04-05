@@ -1,7 +1,5 @@
 # Digitalisoinnin Periaatteet
 
-Digitalisoinnin Periaatteet
-
 Digitalisoinnin periaatteet toimivat digitalisoinnin yhteisinä pelisääntöinä kaikkialla julkisessa hallinnossa. Yhdeksän periaatetta tukevat julkisten palveluiden tuottavuusloikkaa, asiakaslähtöisyyttä ja palveluiden ensisijaista digitaalisuutta.
 
 Kehitämme palvelut asiakaslähtöisesti
@@ -44,4 +42,9 @@ Nimeämme palvelulle ja sen toteutukselle omistajan
 
 Jokaisella palvelulla pitää olla koko sen elinkaaren ajan nimetty omistaja, joka vastaa palvelun toiminnasta sekä mahdollistaa vuoropuhelun eri tahojen välillä. Palvelun omistaja on vastuussa palvelun jatkokehityksestä ja siitä kehityssuunnasta, joka palvelulla kulloinkin on. Palveluita ei kehitetä erillään toisistaan, joten on tärkeää, että niiden omistajat voivat saada helposti toisiinsa yhteyden.
 
-Lisätietoja: Aleksi Kopponen, erityisasiantuntija Valtiovarainministeriö, Julkisen hallinnon ICT-osasto, digitalisaatio-yksikkö puh. 0295530145 email aleksi.kopponen@vm.fi twitter @kopponen
+
+Lisätietoja: 
+Aleksi Kopponen, erityisasiantuntija Valtiovarainministeriö, Julkisen hallinnon ICT-osasto, digitalisaatio-yksikkö 
+puh. 0295530145 
+email aleksi.kopponen@vm.fi 
+twitter @kopponen
